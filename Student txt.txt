@@ -1,0 +1,82 @@
+Create login credentials? (y/n): y
+Enter username: admin
+Enter password: admin123
+Enter role (admin/user): admin
+Credentials created!
+
+===== LOGIN =====
+Username: admin
+Password: admin123
+
+===== ADMIN MENU =====
+1. Add Student
+2. Display Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Logout
+Enter choice: 1
+Enter roll number: 102
+Enter full name: sharishma
+Enter marks: 98
+Student added!
+
+===== ADMIN MENU =====
+1. Add Student
+2. Display Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Logout
+Enter choice: 1
+Enter roll number: 101
+Enter full name: sindhu
+Enter marks: 89
+Student added!
+
+===== ADMIN MENU =====
+1. Add Student
+2. Display Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Logout
+Enter choice: 2
+
+Roll    Name            Marks
+--------------------------------------
+102     sharishma       98.00
+101     sindhu          89.00
+
+===== ADMIN MENU =====
+1. Add Student
+2. Display Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Logout
+Enter choice: 3
+Enter roll: 102
+Found: 102  sharishma  98.00
+
+===== ADMIN MENU =====
+1. Add Student
+2. Display Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Logout
+Enter choice: 4
+Enter roll to update: 103
+Roll not found!
+
+===== ADMIN MENU =====
+1. Add Student
+2. Display Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Logout
+Enter choice: 5
+Enter roll to delete: 101
+Deleted!
